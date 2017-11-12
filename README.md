@@ -1,6 +1,6 @@
 # SCRUB
 
-Single Cell RNA batch effect correcting and biology variance detection method: SCRUB (Single Cell RNA Unified molecular identifier Batch effect correcting)
+Single Cell RNA batch effect correcting and biology variance detection method: SCRUB (Single Cell RNA Unique molecular identifiers Batch effect correcting)
 
 It's a droplet based single cell RNA batch effect correcting protocal....
 
